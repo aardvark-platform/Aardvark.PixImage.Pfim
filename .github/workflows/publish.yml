@@ -2,7 +2,7 @@ name: Publish
 on:
   push:
     branches:
-      - final
+      - master
     paths:
       - RELEASE_NOTES.md 
       - .github/workflows/publish.yml

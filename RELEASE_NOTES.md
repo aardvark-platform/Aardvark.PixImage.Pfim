@@ -1,2 +1,2 @@
-### 1.0.0
-- Initial release
+### 0.9.0
+- Initial release (limited support for 24bit images)
