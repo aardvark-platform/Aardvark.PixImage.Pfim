@@ -12,7 +12,7 @@ nuget Aardvark.Base.Tensors                      ~> 5.2.19
 nuget System.Buffers                             >= 4.5.1 lowest_matching: true
 nuget System.Memory                              >= 4.5.5 lowest_matching: true
 
-nuget Pfim                                       ~> 0.11.1
+nuget Pfim                                       ~> 0.11.2
 
 group Test
     framework: net6.0
